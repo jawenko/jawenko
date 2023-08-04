@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @jawenko
-- 👀 I’m interested in art, social science and IA
-- 🌱 I’m currently learning javascript to become a **fullstack dev** 
-- 💞️ I’m looking to collaborate on *Soyhenry*
-- 📫 you can contact me on: flavioc_62@hotmail.com
+Hello there.
+I'm Flavio, user from PE Perú. I have studies in social science.
+I’m currently learning python because i'm interested in data science.
+📫 : flavioc_62@hotmail.com
 
 <!---
 jawenko/jawenko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
