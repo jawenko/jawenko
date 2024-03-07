@@ -1,10 +1,8 @@
-### Hello there.
+### Hello there!
 ====
 
-
 I'm **Flavio**, user from PE Perú. I love social sciences and art.
-I’m currently learning python and SQL because i'm interested in data science.
-
+I’m currently learning python and SQL (with sqlite) because i'm interested in data science.
 
 ====
 
