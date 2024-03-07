@@ -1,5 +1,5 @@
 Hello there.
-I'm Flavio, user from PE Perú. I have studies in social science.
+I'm Flavio, user from PE Perú. I love social sciences and art.
 I’m currently learning python because i'm interested in data science.
 📫 : flavioc_62@hotmail.com
 
