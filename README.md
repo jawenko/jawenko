@@ -1,7 +1,7 @@
 ### Hello there!
 ====
 
-I'm **Flavio**, user from PE Perú. I love social sciences and art.
+I'm **Flavio**, user from PE Perú. I love social sciences, data and art.
 I’m currently learning python and SQL (with sqlite) because i'm interested in data science and web development.
 
 ====
